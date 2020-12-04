@@ -1,4 +1,4 @@
-# Problem-Solving_Circle
+# ProblemSolving_Circle
 
 ### Level 0
 - Intro & Basics 
