@@ -1,4 +1,4 @@
-# ProblemSolving_Circle
+# Problem Solving Squad Roadmap
 
 ### Level 0
 - Intro & Basics 
